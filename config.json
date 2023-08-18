@@ -181,16 +181,16 @@
           {
             "id": "32",
             "order": 1,
-            "name": "TheWorldThisweek",
+            "name": "The World This week",
             "cardImage": "/images/image58.png",
             "subtitle": "subtitle",
             "requiresAuth": false,
             "url": "",
             "hasDetail": true,
             "show": {
-              "personality": "KamalaHaris",
+              "personality": "Kamala Haris",
               "venue": "place",
-              "date": "text",
+              "date": "01 JAN",
               "status": true
             },
             "promo": true
@@ -205,9 +205,9 @@
             "url": "",
             "hasDetail": true,
             "show": {
-              "personality": "SatyaNadela",
+              "personality": "Satya Nadela",
               "venue": "place",
-              "date": "text",
+              "date": "02 FEB",
               "status": true
             },
             "promo": false
@@ -215,16 +215,16 @@
           {
             "id": "34",
             "order": 1,
-            "name": "TheWorldThisweek",
+            "name": "The World This week",
             "cardImage": "/images/image58.png",
             "subtitle": "subtitle",
             "requiresAuth": false,
             "url": "",
             "hasDetail": true,
             "show": {
-              "personality": "KamalaHaris",
+              "personality": "Kamala Haris",
               "venue": "place",
-              "date": "text",
+              "date": "03 MAR",
               "status": true
             },
             "promo": true
@@ -239,9 +239,9 @@
             "url": "",
             "hasDetail": true,
             "show": {
-              "personality": "SatyaNadela",
+              "personality": "Satya Nadela",
               "venue": "place",
-              "date": "text",
+              "date": "04 APR",
               "status": true
             },
             "promo": false
@@ -249,16 +249,16 @@
           {
             "id": "36",
             "order": 1,
-            "name": "TheWorldThisweek",
+            "name": "The World This week",
             "cardImage": "/images/image58.png",
             "subtitle": "subtitle",
             "requiresAuth": false,
             "url": "",
             "hasDetail": true,
             "show": {
-              "personality": "KamalaHaris",
+              "personality": "Kamala Haris",
               "venue": "place",
-              "date": "text",
+              "date": "05 MAY",
               "status": true
             },
             "promo": true
@@ -273,9 +273,9 @@
             "url": "",
             "hasDetail": true,
             "show": {
-              "personality": "SatyaNadela",
+              "personality": "Satya Nadela",
               "venue": "place",
-              "date": "text",
+              "date": "06 JUN",
               "status": true
             },
             "promo": false
