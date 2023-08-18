@@ -1,0 +1,381 @@
+{
+  "statuscode": 200,
+  "message": "Success",
+  "data": {
+    "sections": [
+      {
+        "type": "buttons",
+        "orientation": "horizontal",
+        "id": "03abcdef123",
+        "order": 1,
+        "hasLanding": true,
+        "items": [
+          {
+            "id": "22",
+            "name": "Latest",
+            "order": 1,
+            "requiresAuth": false,
+            "url": "/articles?category=latest"
+          },
+          {
+            "id": "21",
+            "order": 2,
+            "name": "Comingsoon",
+            "requiresAuth": false,
+            "url": "/articles?category=comingsoon"
+          }
+        ]
+      },
+      {
+        "type": "largePortrait",
+        "orientation": "horizontal",
+        "id": "3abcdef123",
+        "order": 4,
+        "hasLanding": true,
+        "items": [
+          {
+            "id": "32",
+            "order": 1,
+            "name": "Battleground",
+            "cardImage": "/images/battleground.png",
+            "subtitle": "UpcomingelectionsandExclusives",
+            "requiresAuth": false,
+            "url": "/battleground"
+          },
+          {
+            "id": "33",
+            "order": 2,
+            "name": "Explainers",
+            "cardImage": "/images/explainers.png",
+            "subtitle": "Knowledge,research&insightfulanalysisonpolitics",
+            "requiresAuth": false,
+            "url": "/explainers"
+          },
+          {
+            "id": "33A",
+            "order": 1,
+            "name": "ElectionData",
+            "cardImage": "/images/election-data.png",
+            "subtitle": "Checkloksabha,State&Localbodyelectiondata",
+            "requiresAuth": false,
+            "url": "/battleground"
+          },
+          {
+            "id": "33B",
+            "order": 2,
+            "name": "ElectionCalendar",
+            "cardImage": "/images/election-calendar.png",
+            "subtitle": "ElectionCalendar",
+            "requiresAuth": false,
+            "url": "/explainers"
+          },
+          {
+            "id": "33C",
+            "order": 2,
+            "name": "Opinion",
+            "cardImage": "/images/opinion.png",
+            "subtitle": "Electionopinion",
+            "requiresAuth": false,
+            "url": "/explainers"
+          },
+          {
+            "id": "33D",
+            "order": 1,
+            "name": "Battleground",
+            "cardImage": "/images/battleground.png",
+            "subtitle": "UpcomingelectionsandExclusives",
+            "requiresAuth": false,
+            "url": "/battleground"
+          }
+        ]
+      },
+      {
+        "type": "circularButton",
+        "orientation": "horizontal",
+        "id": "3abcdef123A",
+        "order": 3,
+        "hasLanding": true,
+        "items": [
+          {
+            "id": "32",
+            "order": 1,
+            "name": "ForYou",
+            "cardImage": "/images/for-you-icon.svg",
+            "subtitle": "",
+            "requiresAuth": true,
+            "url": "/for-you"
+          },
+          {
+            "id": "33",
+            "order": 2,
+            "name": "Askaquestion",
+            "cardImage": "/images/ask-question.svg",
+            "subtitle": "",
+            "requiresAuth": true,
+            "url": "/ask-the-expert"
+          },
+          {
+            "id": "37",
+            "order": 3,
+            "name": "Gen-ZVoice",
+            "cardImage": "/images/gen-z-voice.svg",
+            "subtitle": "",
+            "requiresAuth": true,
+            "url": "/genz-voice"
+          }
+        ]
+      },
+      {
+        "type": "highlightBanner",
+        "orientation": "horizontal",
+        "id": "3abcdef123B",
+        "order": 2,
+        "hasLanding": false,
+        "items": [
+          {
+            "id": "32",
+            "order": 1,
+            "name": "TheWorldThisweek",
+            "cardImage": "/images/bannerRail.svg",
+            "subtitle": "subtitle",
+            "requiresAuth": false,
+            "url": "",
+            "hasDetail": false,
+            "event": {
+              "venue": "place",
+              "date": "text",
+              "expiryDate": 1212121212,
+              "enableNotify": true,
+              "enableQuestion": true,
+              "status": true
+            }
+          },
+          {
+            "id": "33",
+            "order": 2,
+            "name": "Shows",
+            "cardImage": "/images/bannerRail.svg",
+            "subtitle": "subtitle",
+            "requiresAuth": false,
+            "url": "",
+            "hasDetail": false,
+            "event": {
+              "personality": "name",
+              "venue": "place",
+              "date": "text",
+              "expiryDate": 1212121212,
+              "enableNotify": true,
+              "enableQuestion": true,
+              "status": true
+            }
+          }
+        ]
+      },
+      {
+        "type": "portrait",
+        "orientation": "horizontal",
+        "id": "3abcdef123C",
+        "order": 6,
+        "hasLanding": false,
+        "items": [
+          {
+            "id": "32",
+            "order": 1,
+            "name": "TheWorldThisweek",
+            "cardImage": "/images/image58.png",
+            "subtitle": "subtitle",
+            "requiresAuth": false,
+            "url": "",
+            "hasDetail": true,
+            "show": {
+              "personality": "KamalaHaris",
+              "venue": "place",
+              "date": "text",
+              "status": true
+            },
+            "promo": true
+          },
+          {
+            "id": "33",
+            "order": 2,
+            "name": "Shows",
+            "cardImage": "/images/image58.png",
+            "subtitle": "subtitle",
+            "requiresAuth": false,
+            "url": "",
+            "hasDetail": true,
+            "show": {
+              "personality": "SatyaNadela",
+              "venue": "place",
+              "date": "text",
+              "status": true
+            },
+            "promo": false
+          },
+          {
+            "id": "34",
+            "order": 1,
+            "name": "TheWorldThisweek",
+            "cardImage": "/images/image58.png",
+            "subtitle": "subtitle",
+            "requiresAuth": false,
+            "url": "",
+            "hasDetail": true,
+            "show": {
+              "personality": "KamalaHaris",
+              "venue": "place",
+              "date": "text",
+              "status": true
+            },
+            "promo": true
+          },
+          {
+            "id": "35",
+            "order": 2,
+            "name": "Shows",
+            "cardImage": "/images/image58.png",
+            "subtitle": "subtitle",
+            "requiresAuth": false,
+            "url": "",
+            "hasDetail": true,
+            "show": {
+              "personality": "SatyaNadela",
+              "venue": "place",
+              "date": "text",
+              "status": true
+            },
+            "promo": false
+          },
+          {
+            "id": "36",
+            "order": 1,
+            "name": "TheWorldThisweek",
+            "cardImage": "/images/image58.png",
+            "subtitle": "subtitle",
+            "requiresAuth": false,
+            "url": "",
+            "hasDetail": true,
+            "show": {
+              "personality": "KamalaHaris",
+              "venue": "place",
+              "date": "text",
+              "status": true
+            },
+            "promo": true
+          },
+          {
+            "id": "37",
+            "order": 2,
+            "name": "Shows",
+            "cardImage": "/images/image58.png",
+            "subtitle": "subtitle",
+            "requiresAuth": false,
+            "url": "",
+            "hasDetail": true,
+            "show": {
+              "personality": "SatyaNadela",
+              "venue": "place",
+              "date": "text",
+              "status": true
+            },
+            "promo": false
+          }
+        ]
+      },
+      {
+        "type": "electionData",
+        "orientation": "horizontal",
+        "id": "3abcdef123#",
+        "order": 9,
+        "hasLanding": true,
+        "items": [
+          {
+            "id": "22",
+            "type": "card",
+            "order": 1,
+            "requiresAuth": false,
+            "name": "Battleground",
+            "cardImage": "/images/battleground-card.png",
+            "subTitle": "UpcomingElections",
+            "links": [
+              {
+                "title": "Loksabha",
+                "subtitle": "",
+                "url": "/battleground"
+              },
+              {
+                "title": "SelectStateElections",
+                "subtitle": "5stategotoelectiononNov&Dec",
+                "url": "/battleground"
+              },
+              {
+                "title": "Selectlocalbodyelections",
+                "subtitle": "",
+                "url": "/battleground"
+              }
+            ]
+          },
+          {
+            "id": "21",
+            "type": "calendar",
+            "name": "Glimpses of Karnataka Assembly 20231",
+            "requiresAuth": false,
+            "url": "",
+            "party": "BJP",
+            "notify": true,
+            "state": "Gujarat",
+            "fromTime": "10:00",
+            "toTime": "13:00",
+            "date": "15/08/2023",
+            "partyThumbUrl": "/images/bjp.svg",
+            "order": 2
+          },
+          {
+            "id": "23",
+            "type": "calendar",
+            "name": "Glimpses of Karnataka Assembly 20232",
+            "requiresAuth": false,
+            "url": "",
+            "party": "CONGRESS",
+            "notify": true,
+            "state": "Gujarat",
+            "fromTime": "10:00",
+            "toTime": "13:00",
+            "date": "15/08/2023",
+            "partyThumbUrl": "/images/congress.svg",
+            "order": 3
+          }
+        ]
+      },
+      {
+        "type": "adStrip",
+        "orientation": "horizontal",
+        "id": "3abcdef12223",
+        "order": 9,
+        "hasLanding": false,
+        "props": {
+          "id": "2xefdefef2",
+          "type": "card",
+          "order": 1,
+          "url": ""
+        }
+      },
+      {
+        "type": "opinion",
+        "orientation": "horizontal",
+        "id": "A3abcdef123",
+        "order": 10,
+        "hasLanding": false,
+        "props": {
+          "id": "2xefdefef2",
+          "type": "card",
+          "order": 1,
+          "url": "/opinion-slider",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": ""
+        }
+      }
+    ]
+  }
+}
