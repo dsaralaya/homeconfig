@@ -168,6 +168,25 @@
               "enableQuestion": true,
               "status": true
             }
+          },
+          {
+            "id": "34",
+            "order": 3,
+            "name": "Shows1",
+            "cardImage": "/images/bannerRail.svg",
+            "subtitle": "subtitle",
+            "requiresAuth": false,
+            "url": "",
+            "hasDetail": false,
+            "event": {
+              "personality": "name",
+              "venue": "place",
+              "date": "text",
+              "expiryDate": 1212121212,
+              "enableNotify": true,
+              "enableQuestion": true,
+              "status": true
+            }
           }
         ]
       },
