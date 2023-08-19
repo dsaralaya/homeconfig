@@ -38,7 +38,7 @@
             "order": 1,
             "name": "Battleground",
             "cardImage": "/images/battleground.png",
-            "subtitle": "UpcomingelectionsandExclusives",
+            "subtitle": "Upcoming elections and Exclusives",
             "requiresAuth": false,
             "url": "/battleground"
           },
@@ -47,23 +47,23 @@
             "order": 2,
             "name": "Explainers",
             "cardImage": "/images/explainers.png",
-            "subtitle": "Knowledge,research&insightfulanalysisonpolitics",
+            "subtitle": "Knowledge,research & insightful analys is on politics",
             "requiresAuth": false,
             "url": "/explainers"
           },
           {
             "id": "33A",
             "order": 1,
-            "name": "ElectionData",
+            "name": "Election Data",
             "cardImage": "/images/election-data.png",
-            "subtitle": "Checkloksabha,State&Localbodyelectiondata",
+            "subtitle": "Check loksabha,State & Local body electiondata",
             "requiresAuth": false,
             "url": "/battleground"
           },
           {
             "id": "33B",
             "order": 2,
-            "name": "ElectionCalendar",
+            "name": "Election Calendar",
             "cardImage": "/images/election-calendar.png",
             "subtitle": "ElectionCalendar",
             "requiresAuth": false,
@@ -74,7 +74,7 @@
             "order": 2,
             "name": "Opinion",
             "cardImage": "/images/opinion.png",
-            "subtitle": "Electionopinion",
+            "subtitle": "Election opinion",
             "requiresAuth": false,
             "url": "/explainers"
           },
@@ -83,7 +83,7 @@
             "order": 1,
             "name": "Battleground",
             "cardImage": "/images/battleground.png",
-            "subtitle": "UpcomingelectionsandExclusives",
+            "subtitle": "Upcoming elections and Exclusives",
             "requiresAuth": false,
             "url": "/battleground"
           }
@@ -99,7 +99,7 @@
           {
             "id": "32",
             "order": 1,
-            "name": "ForYou",
+            "name": "For You",
             "cardImage": "/images/for-you-icon.svg",
             "subtitle": "",
             "requiresAuth": true,
@@ -108,7 +108,7 @@
           {
             "id": "33",
             "order": 2,
-            "name": "Askaquestion",
+            "name": "Ask a question",
             "cardImage": "/images/ask-question.svg",
             "subtitle": "",
             "requiresAuth": true,
@@ -117,7 +117,7 @@
           {
             "id": "37",
             "order": 3,
-            "name": "Gen-ZVoice",
+            "name": "Gen -Z Voice",
             "cardImage": "/images/gen-z-voice.svg",
             "subtitle": "",
             "requiresAuth": true,
@@ -135,7 +135,7 @@
           {
             "id": "32",
             "order": 1,
-            "name": "TheWorldThisweek",
+            "name": "The World This week",
             "cardImage": "/images/bannerRail.svg",
             "subtitle": "subtitle",
             "requiresAuth": false,
