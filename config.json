@@ -323,12 +323,12 @@
                 "url": "/battleground"
               },
               {
-                "title": "SelectStateElections",
-                "subtitle": "5stategotoelectiononNov&Dec",
+                "title": "Select State Elections",
+                "subtitle": "5 state go to election on Nov&Dec",
                 "url": "/battleground"
               },
               {
-                "title": "Selectlocalbodyelections",
+                "title": "Select local body elections",
                 "subtitle": "",
                 "url": "/battleground"
               }
