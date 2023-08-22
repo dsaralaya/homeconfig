@@ -132,62 +132,43 @@
         "order": 2,
         "hasLanding": false,
         "items": [
-          {
-            "id": "32",
-            "order": 1,
-            "name": "Big Interviews",
-            "cardImage": "/images/bannerRail.svg",
-            "subtitle": "kamala harris",
-            "requiresAuth": false,
-            "url": "",
-            "hasDetail": false,
-            "event": {
-              "venue": "San Francisco",
-              "date": "15/11/2023",
-              "expiryDate": 1212121212,
-              "enableNotify": true,
-              "enableQuestion": true,
-              "status": true
-            }
-          },
-          {
-            "id": "33",
-            "order": 2,
-            "name": "Shows",
-            "cardImage": "/images/bannerRail.svg",
-            "subtitle": "subtitle",
-            "requiresAuth": false,
-            "url": "",
-            "hasDetail": false,
-            "event": {
-              "personality": "name",
-              "venue": "place",
-              "date": "text",
-              "expiryDate": 1212121212,
-              "enableNotify": true,
-              "enableQuestion": true,
-              "status": true
-            }
-          },
-          {
-            "id": "34",
-            "order": 3,
-            "name": "Shows1",
-            "cardImage": "/images/bannerRail.svg",
-            "subtitle": "subtitle",
-            "requiresAuth": false,
-            "url": "",
-            "hasDetail": false,
-            "event": {
-              "personality": "name",
-              "venue": "place",
-              "date": "text",
-              "expiryDate": 1212121212,
-              "enableNotify": true,
-              "enableQuestion": true,
-              "status": true
-            }
-          }
+         {
+                        "id": "32",
+                        "order": 1,
+                        "name": "The BIG Interview",
+                        "cardImage": "https://ikcommonassets.s3.ap-south-1.amazonaws.com/api/v1/images/category/highlight/highlight1.png",
+                        "subtitle": "Vice President Kamala Harris tells Stephen Colbert that the attempt by Florida's governor to downplay Russia's invasion of Ukraine reveals.",
+                        "requiresAuth": false,
+                        "url": "",
+                        "hasDetail": false,
+                        "event": {
+                            "venue": "place",
+                            "date": "text",
+                            "expiryDate": 1212121212,
+                            "enableNotify": true,
+                            "enableQuestion": true,
+                            "status": true
+                        }
+                    },
+                    {
+                        "id": "33",
+                        "order": 2,
+                        "name": "Technology Masters",
+                        "cardImage": "https://ikcommonassets.s3.ap-south-1.amazonaws.com/api/v1/images/category/highlight/highlight2.jpeg",
+                        "subtitle": "Exclusive CEO Interview: Satya Nadella Reveals How Microsoft Got Its Groove Back",
+                        "requiresAuth": false,
+                        "url": "",
+                        "hasDetail": false,
+                        "event": {
+                            "personality": "name",
+                            "venue": "place",
+                            "date": "text",
+                            "expiryDate": 1212121212,
+                            "enableNotify": true,
+                            "enableQuestion": true,
+                            "status": true
+                        }
+                    }
         ]
       },
       {
