@@ -30,7 +30,7 @@
         "type": "largePortrait",
         "orientation": "horizontal",
         "id": "3abcdef123",
-        "order": 4,
+        "order": 2,
         "hasLanding": true,
         "items": [
           {
@@ -129,7 +129,7 @@
         "type": "highlightBanner",
         "orientation": "horizontal",
         "id": "3abcdef123B",
-        "order": 2,
+        "order": 5,
         "hasLanding": false,
         "items": [
          {
