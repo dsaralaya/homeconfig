@@ -4,7 +4,7 @@
 				"id": "15",
 				"type": "highlightBanner",
 				"orientation": "horizontal",
-				"order": "2",
+				"order": "1",
 				"haslanding": false,
 				"items": [{
 						"id": 4,
@@ -13,7 +13,7 @@
 						"subtitle": "Hey join us, you can see it in action?",
 						"requiresAuth": false,
 						"hasDetail": false,
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/QUBSRL.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063937Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4d2ac24cd33a07131e49432410387a7e1b116709723271c1fdf5bfef526b9998",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/QUBSRL.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070405Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4d500a762ed0e948fb9723a4985f31923482af155382be0cfce5054f7bf049b9",
 						"url": "",
 						"event": {
 							"personality": "self",
@@ -32,7 +32,7 @@
 						"subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
 						"requiresAuth": false,
 						"hasDetail": false,
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/B7O26M.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063937Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9f8f45da642962d61bee8dc542d553b248575df26b364da6c51fe8488bbdc394",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/B7O26M.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070405Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=88aebb3a3e426ed7158e531ba7aae2a0df1a50380d4365ff0e60a0e2881381bd",
 						"url": "",
 						"event": {
 							"personality": "Satya",
@@ -50,32 +50,41 @@
 				"id": "16",
 				"type": "largePortrait",
 				"orientation": "horizontal",
-				"order": "3",
+				"order": "2",
 				"haslanding": false,
 				"items": [{
-						"id": 204,
-						"order": "1",
-						"name": "explainer",
+						"id": 24,
+						"order": "9",
+						"name": "live",
 						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/R86Y0F.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063937Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=985e0b021790b2066847b751bfebf124a5ca49de37d95e50db2fc57be40aa62a",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/T61CC1/image/T61CC1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070405Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ba1900fd767c04f66ce5683e06ecbec0474ca9da65b3e2f914eb12baa53bd460",
 						"requiresAuth": false,
-						"url": "test"
+						"url": "https://corporatefinanceinstitute.com/resources/career/mock-interview-guide/"
+					},
+					{
+						"id": 25,
+						"order": "1",
+						"name": "breaking news",
+						"subtitle": "In the wake of rumours about him joining Congress party, former Textile Minister and BJP leader Shankar Patil Munenakoppa on Monday",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/T61CC1/image/T61CC1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070405Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ba1900fd767c04f66ce5683e06ecbec0474ca9da65b3e2f914eb12baa53bd460",
+						"requiresAuth": false,
+						"url": "https://en.wikipedia.org/wiki/Indian_National_Congress"
+					},
+					{
+						"id": 32,
+						"order": "15",
+						"name": "live",
+						"subtitle": null,
+						"cardImage": null,
+						"requiresAuth": false,
+						"url": null
 					},
 					{
 						"id": 206,
-						"order": "2",
+						"order": "1",
 						"name": "big interview",
 						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/B7O26M.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063937Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9f8f45da642962d61bee8dc542d553b248575df26b364da6c51fe8488bbdc394",
-						"requiresAuth": false,
-						"url": "test"
-					},
-					{
-						"id": 207,
-						"order": "3",
-						"name": "battleground",
-						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/BQHENJ.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063937Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=61dcf4dba837fcfb60218bf823881a26e1b758f366388198473d1518568b29d6",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/B7O26M.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070405Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=88aebb3a3e426ed7158e531ba7aae2a0df1a50380d4365ff0e60a0e2881381bd",
 						"requiresAuth": false,
 						"url": "test"
 					},
@@ -84,45 +93,9 @@
 						"order": "4",
 						"name": "talk show",
 						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/XLZITW.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063937Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9a650e0311167fe21659ca36c3359ce9e66c105d390d3e0cec4e977dfa5d380f",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/XLZITW.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070405Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ce6f7b37ba29082575c5b0e6bcc6eca57302cd39cc6644632f4c2d4945db929d",
 						"requiresAuth": false,
 						"url": "test"
-					},
-					{
-						"id": 209,
-						"order": "5",
-						"name": "election data",
-						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/YZTKYK.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063937Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=04907955270b7badc13f01e3eb01a5819a41073c7bd8daf2dc33801daa89c594",
-						"requiresAuth": false,
-						"url": "test"
-					},
-					{
-						"id": 368,
-						"order": "6",
-						"name": "for you",
-						"subtitle": "For You",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/FTDP7D.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063937Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=26d31dac55a3d1582d529eb36a7d25355c6636d7ec70ebfc268aed909b99301f",
-						"requiresAuth": false,
-						"url": "For You"
-					},
-					{
-						"id": 369,
-						"order": "7",
-						"name": "gen z voice",
-						"subtitle": "Gen Z",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/SMV7PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063937Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=557c4025d3708240cf25510a707e4477991d5d3509050934e09c493fb891d754",
-						"requiresAuth": false,
-						"url": "Gen Z"
-					},
-					{
-						"id": 370,
-						"order": "8",
-						"name": "ask question",
-						"subtitle": "Ask Question",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/35U1PN.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063937Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c66c59df35277dcdb43b3f52457b46f26390ea6814cb0e8d0d591d89e6d05d77",
-						"requiresAuth": false,
-						"url": "Ask Question"
 					}
 				]
 			},
@@ -130,59 +103,14 @@
 				"id": "18",
 				"type": "circularButton",
 				"orientation": "horizontal",
-				"order": "4",
+				"order": "3",
 				"haslanding": false,
 				"items": [{
-						"id": 204,
-						"order": "1",
-						"name": "explainer",
-						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/R86Y0F.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063937Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=985e0b021790b2066847b751bfebf124a5ca49de37d95e50db2fc57be40aa62a",
-						"requiresAuth": false,
-						"url": "test"
-					},
-					{
-						"id": 206,
-						"order": "2",
-						"name": "big interview",
-						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/B7O26M.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063937Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9f8f45da642962d61bee8dc542d553b248575df26b364da6c51fe8488bbdc394",
-						"requiresAuth": false,
-						"url": "test"
-					},
-					{
-						"id": 207,
-						"order": "3",
-						"name": "battleground",
-						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/BQHENJ.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063937Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=61dcf4dba837fcfb60218bf823881a26e1b758f366388198473d1518568b29d6",
-						"requiresAuth": false,
-						"url": "test"
-					},
-					{
-						"id": 208,
-						"order": "4",
-						"name": "talk show",
-						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/XLZITW.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063937Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9a650e0311167fe21659ca36c3359ce9e66c105d390d3e0cec4e977dfa5d380f",
-						"requiresAuth": false,
-						"url": "test"
-					},
-					{
-						"id": 209,
-						"order": "5",
-						"name": "election data",
-						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/YZTKYK.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063938Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cda921b370ffb3ba77a863da229421609b6e73b76cad65ad367afaeb00fc8020",
-						"requiresAuth": false,
-						"url": "test"
-					},
-					{
 						"id": 368,
 						"order": "6",
 						"name": "for you",
 						"subtitle": "For You",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/FTDP7D.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063938Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=abf7d611fa35b85f32e123562c6cafa4d3b337bde5ec095e7519770479b0e7c9",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/FTDP7D.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070405Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d0dafc41f3ab26d2a6433b3bf48f70e882ef908d45e698060e17eafab71db62d",
 						"requiresAuth": false,
 						"url": "For You"
 					},
@@ -191,7 +119,7 @@
 						"order": "7",
 						"name": "gen z voice",
 						"subtitle": "Gen Z",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/SMV7PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063938Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=dd7b66dc8a3226b42b17142797ecfbb42f888c7e97819083fe814c30b86abd32",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/SMV7PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070405Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ee0ffe67e8e5ae48ecc9eb7ae040760ce1d530fe69f2f2faa971de815f56ff5a",
 						"requiresAuth": false,
 						"url": "Gen Z"
 					},
@@ -200,7 +128,7 @@
 						"order": "8",
 						"name": "ask question",
 						"subtitle": "Ask Question",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/35U1PN.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063938Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3d2b508624a191ffdd87eed9bcb7d34ea72dfbecfb48c413f2f99cecf5af7281",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/35U1PN.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070405Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=06b29686c9b9e7d0d56b65758ab3cbd92e689f43c2794ac7b133b9e3d2a36406",
 						"requiresAuth": false,
 						"url": "Ask Question"
 					}
@@ -210,14 +138,46 @@
 				"id": "19",
 				"type": "portrait",
 				"orientation": "horizontal",
-				"order": "5",
+				"order": "4",
 				"haslanding": false,
 				"items": [{
-						"id": 204,
+						"id": 19,
 						"order": "1",
+						"name": "live",
+						"subtitle": "Shows",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/T61CC1/image/T61CC1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070406Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5ca507ee1e0df06a9bbb35a167ce72dce90b1113c06630383c4cf3f9619095a4",
+						"requiresAuth": false,
+						"hasDetail": false,
+						"url": null,
+						"show": {
+							"personality": "Obama",
+							"venue": "",
+							"date": "2023-08-31T08:35:00Z",
+							"status": false
+						}
+					},
+					{
+						"id": 26,
+						"order": "10",
+						"name": "live",
+						"subtitle": "The World This week",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/T61CC1/image/T61CC1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070406Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5ca507ee1e0df06a9bbb35a167ce72dce90b1113c06630383c4cf3f9619095a4",
+						"requiresAuth": false,
+						"hasDetail": false,
+						"url": null,
+						"show": {
+							"personality": "Kamala Haris",
+							"venue": "",
+							"date": "2023-08-30T08:40:00Z",
+							"status": true
+						}
+					},
+					{
+						"id": 204,
+						"order": "3",
 						"name": "explainer",
 						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/R86Y0F.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063938Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f0b30785f2f28d346c2ccbbb6e24adc511cc6062e4a096fa976a1a1c33be0202",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/R86Y0F.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070406Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=30a0dc4da858dad4afcaabba065578fff8a7403b3c88dd25fa5a184bed574c33",
 						"requiresAuth": false,
 						"hasDetail": false,
 						"url": "test",
@@ -229,27 +189,27 @@
 						}
 					},
 					{
-						"id": 206,
+						"id": 205,
 						"order": "2",
-						"name": "big interview",
+						"name": "trending",
 						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/B7O26M.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063938Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bd5de7795a76227eca0b2a7c7e692c413366089465939953824deab95aaaff6f",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/FXBOMT.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070406Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=48b7014060a76d5fc3d839da7facdd071984152e18dd1b4a780d987d17e034ff",
 						"requiresAuth": false,
 						"hasDetail": false,
 						"url": "test",
 						"show": {
 							"personality": "test",
 							"venue": "",
-							"date": null,
+							"date": "2023-08-31T17:32:00Z",
 							"status": true
 						}
 					},
 					{
 						"id": 207,
-						"order": "3",
+						"order": "2",
 						"name": "battleground",
 						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/BQHENJ.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063938Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=69afae3b2c5393c828d4d48c171249e04f40bb7d340aad82a66dc8ab4975fbe5",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/BQHENJ.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070406Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bdf3326d943cde2f386f4ffb7863483822d44bae5e10f9449f1987c202ea522f",
 						"requiresAuth": false,
 						"hasDetail": false,
 						"url": "test",
@@ -261,80 +221,16 @@
 						}
 					},
 					{
-						"id": 208,
-						"order": "4",
-						"name": "talk show",
-						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/XLZITW.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063938Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9665563b1f9f714c44365951a1e348c3d8a6200c8af308d79024de73367f2a89",
-						"requiresAuth": false,
-						"hasDetail": false,
-						"url": "test",
-						"show": {
-							"personality": "test",
-							"venue": "",
-							"date": null,
-							"status": true
-						}
-					},
-					{
 						"id": 209,
 						"order": "5",
 						"name": "election data",
 						"subtitle": "test",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/YZTKYK.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063938Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cda921b370ffb3ba77a863da229421609b6e73b76cad65ad367afaeb00fc8020",
+						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/YZTKYK.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T070406Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=49f45800eea77a622d1be5fa795fb06e6ee4a3fce07182345c21b159a902f1e4",
 						"requiresAuth": false,
 						"hasDetail": false,
 						"url": "test",
 						"show": {
 							"personality": "test",
-							"venue": "",
-							"date": null,
-							"status": true
-						}
-					},
-					{
-						"id": 368,
-						"order": "6",
-						"name": "for you",
-						"subtitle": "For You",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/FTDP7D.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063938Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=abf7d611fa35b85f32e123562c6cafa4d3b337bde5ec095e7519770479b0e7c9",
-						"requiresAuth": false,
-						"hasDetail": false,
-						"url": "For You",
-						"show": {
-							"personality": "For You",
-							"venue": "",
-							"date": null,
-							"status": true
-						}
-					},
-					{
-						"id": 369,
-						"order": "7",
-						"name": "gen z voice",
-						"subtitle": "Gen Z",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/SMV7PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063938Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=dd7b66dc8a3226b42b17142797ecfbb42f888c7e97819083fe814c30b86abd32",
-						"requiresAuth": false,
-						"hasDetail": false,
-						"url": "Gen Z",
-						"show": {
-							"personality": "Gen Z",
-							"venue": "",
-							"date": null,
-							"status": true
-						}
-					},
-					{
-						"id": 370,
-						"order": "8",
-						"name": "ask question",
-						"subtitle": "Ask Question",
-						"cardImage": "https://s3.ap-south-1.amazonaws.com/ikroya-rec-dev/mediaasset/image/35U1PN.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAR4I3EP7B2ES2ECJD%2F20230901%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230901T063938Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3d2b508624a191ffdd87eed9bcb7d34ea72dfbecfb48c413f2f99cecf5af7281",
-						"requiresAuth": false,
-						"hasDetail": false,
-						"url": "Ask Question",
-						"show": {
-							"personality": "Ask Question",
 							"venue": "",
 							"date": null,
 							"status": true
@@ -364,68 +260,26 @@
 				"haslanding": false,
 				"items": []
 			},
-		
+			
 			{
 				"id": "39",
 				"type": "buttons",
 				"orientation": "horizontal",
-				"order": "1",
+				"order": "5",
 				"haslanding": false,
 				"items": [{
-						"id": 204,
+						"id": 1,
 						"order": "1",
-						"name": "explainer",
+						"name": "Latest",
 						"requiresAuth": false,
-						"url": "test"
+						"url": "/articles?category=latest"
 					},
 					{
-						"id": 206,
-						"order": "2",
-						"name": "big interview",
+						"id": 2,
+						"order": "1",
+						"name": "Coming soon",
 						"requiresAuth": false,
-						"url": "test"
-					},
-					{
-						"id": 207,
-						"order": "3",
-						"name": "battleground",
-						"requiresAuth": false,
-						"url": "test"
-					},
-					{
-						"id": 208,
-						"order": "4",
-						"name": "talk show",
-						"requiresAuth": false,
-						"url": "test"
-					},
-					{
-						"id": 209,
-						"order": "5",
-						"name": "election data",
-						"requiresAuth": false,
-						"url": "test"
-					},
-					{
-						"id": 368,
-						"order": "6",
-						"name": "for you",
-						"requiresAuth": false,
-						"url": "For You"
-					},
-					{
-						"id": 369,
-						"order": "7",
-						"name": "gen z voice",
-						"requiresAuth": false,
-						"url": "Gen Z"
-					},
-					{
-						"id": 370,
-						"order": "8",
-						"name": "ask question",
-						"requiresAuth": false,
-						"url": "Ask Question"
+						"url": "/articles?category=comingsoon"
 					}
 				]
 			},
@@ -441,7 +295,7 @@
 				"id": "62",
 				"type": "Submit",
 				"orientation": "horizontal",
-				"order": "9",
+				"order": "10",
 				"haslanding": false,
 				"items": []
 			},
@@ -449,7 +303,7 @@
 				"id": "65",
 				"type": "Big Interview",
 				"orientation": "horizontal",
-				"order": "10",
+				"order": "11",
 				"haslanding": false,
 				"items": []
 			},
@@ -457,7 +311,7 @@
 				"id": "66",
 				"type": "Big Interview",
 				"orientation": "horizontal",
-				"order": "11",
+				"order": "12",
 				"haslanding": false,
 				"items": []
 			}
