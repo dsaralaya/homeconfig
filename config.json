@@ -312,39 +312,8 @@
 						"url": "test"
 					}
 				]
-			},
-			{
-				"id": "61",
-				"type": "Submit",
-				"orientation": "horizontal",
-				"order": "9",
-				"haslanding": false,
-				"items": []
-			},
-			{
-				"id": "62",
-				"type": "Submit",
-				"orientation": "horizontal",
-				"order": "9",
-				"haslanding": false,
-				"items": []
-			},
-			{
-				"id": "65",
-				"type": "Big Interview",
-				"orientation": "horizontal",
-				"order": "10",
-				"haslanding": false,
-				"items": []
-			},
-			{
-				"id": "66",
-				"type": "Big Interview",
-				"orientation": "horizontal",
-				"order": "11",
-				"haslanding": false,
-				"items": []
 			}
+			
 		]
 	},
 	"message": "Success",
